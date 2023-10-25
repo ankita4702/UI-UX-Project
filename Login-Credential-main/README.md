@@ -9,16 +9,16 @@ This is simple Login and Signup authentication app using MERN-Stack. And also I 
 <h1 align="center" >UI Demos</h1>
   
 ## *SignUp Page* :-
-<img src="https://github.com/dsrathore1/Login-Credential/blob/main/Assets/signup.png">
+<img src="https://github.com/ankita4702/UI-UX-Project/blob/main/Login-Credential-main/Assets/signup.png">
 
 <br/>
 <br/>
 
 ## *Login Page* :-
-<img src="https://github.com/dsrathore1/Login-Credential/blob/main/Assets/login.png">
+<img src="https://github.com/ankita4702/UI-UX-Project/blob/main/Login-Credential-main/Assets/login.png">
 
 <br/>
 <br/>
 
 ## *Forget Password Page* :-
-<img src="https://github.com/dsrathore1/Login-Credential/blob/main/Assets/fpwd.png">
+<img src="https://github.com/ankita4702/UI-UX-Project/blob/main/Login-Credential-main/Assets/fpwd.png">
